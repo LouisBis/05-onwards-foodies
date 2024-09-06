@@ -1,7 +1,5 @@
 /** @type {import('next').NextConfig} */
 module.exports = {
-  output: "export", // <=== enables static exports
-  reactStrictMode: true,
   images: {
     remotePatterns: [
       {
