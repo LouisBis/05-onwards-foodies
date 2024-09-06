@@ -20,3 +20,12 @@ npm run dev
 ```
 
 if you want to prepare the db run `node initdb.js`
+
+## AWS3
+
+Créer un fichier .env.local sous la forme
+
+```txt
+AWS_ACCESS_KEY_ID=<your aws access key>
+AWS_SECRET_ACCESS_KEY=<your aws secret access key>
+```
